@@ -4,14 +4,11 @@ A clean, single-file QR code generator that runs entirely in the browser. Type s
 
 **Live demo:** https://Dec444.github.io/qr-generator/
 
-> Replace the link above with your actual GitHub Pages URL once the site is deployed.
-
 <!-- Add a screenshot to make the repo shine:
      1. Open the app and take a screenshot of it with a QR code generated.
      2. Save it in the repo as screenshot.png
      3. Uncomment the line below.
 -->
-<!-- ![Quiet Zone screenshot](screenshot.png) -->
 
 ## Features
 
@@ -71,7 +68,7 @@ The color palette lives in CSS variables at the top of the file, inside the `:ro
 
 Because it's a static site, it hosts anywhere that serves files. Two free options:
 
-- **GitHub Pages** — push this repo, then go to **Settings → Pages**, set the source to the `main` branch and the root folder, and save. Your site appears at `https://YOUR-USERNAME.github.io/REPO-NAME/`.
+- **GitHub Pages** — push this repo, then go to **Settings → Pages**, set the source to the `main` branch and the root folder, and save. Your site appears at `https://Dec444.github.io/qr-generator/`.
 - **Netlify Drop** — drag `index.html` onto [app.netlify.com/drop](https://app.netlify.com/drop) for an instant URL with no account.
 
 > Tip: hosts serve `index.html` by default, so keep the main file named exactly that.
