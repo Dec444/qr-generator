@@ -4,11 +4,7 @@ A clean, single-file QR code generator that runs entirely in the browser. Type s
 
 **Live demo:** https://Dec444.github.io/qr-generator/
 
-<!-- Add a screenshot to make the repo shine:
-     1. Open the app and take a screenshot of it with a QR code generated.
-     2. Save it in the repo as screenshot.png
-     3. Uncomment the line below.
--->
+![Quiet Zone screenshot](screenshot.png)
 
 ## Features
 
